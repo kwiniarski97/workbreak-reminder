@@ -1,0 +1,9 @@
+-classpath 'C:\\Users\\Karol\\Desktop\\workbreak-reminder\\build\\classes\\main;C:\\Users\\Karol\\Desktop\\workbreak-reminder\\build\\resources\\main'
+-d 'C:\\Users\\Karol\\Desktop\\workbreak-reminder\\build\\docs\\javadoc'
+-doctitle 'workbreak-reminder 1.0 API'
+-quiet 
+-windowtitle 'workbreak-reminder 1.0 API'
+'C:\\Users\\Karol\\Desktop\\workbreak-reminder\\src\\main\\java\\Main.java'
+'C:\\Users\\Karol\\Desktop\\workbreak-reminder\\src\\main\\java\\SettingsFrame.java'
+'C:\\Users\\Karol\\Desktop\\workbreak-reminder\\src\\main\\java\\SettingsPreferences.java'
+'C:\\Users\\Karol\\Desktop\\workbreak-reminder\\src\\main\\java\\TrayIconClass.java'
